@@ -62,7 +62,7 @@ h2 {
 h3 {
   color: var(--purple-dark-2);
   font-weight: var(--font-weight-text2);
-  font-size: 16px;
+  font-size: 10px;
 }
 
 input {
@@ -184,7 +184,7 @@ button {
 .trendingPreview-btn {
   border-radius: 8px;
   height: 32px;
-  width: 72px;
+  width: 90px;
 }
 
 .trendingPreview-movieList {
